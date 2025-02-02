@@ -16,6 +16,91 @@
 
 <br>
 
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Containerization & Orchestration  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=docker,podman,kubernetes,openshift&perline=2" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Infrastructure as Code & GitOps  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=terraform,ansible&perline=2" /> 
+       <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### CI/CD & Automation  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=jenkins&perline=1" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Programming & Scripting  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=python,bash&perline=2" /> 
+</div>
+</a>
+</td></tr>
+
+<tr><td valign="top" width="25%">
+
+### Virtualization & Cloud  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=white" />
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Networking & Certifications  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://img.shields.io/badge/CCNA-1BA0D7.svg?logo=cisco&logoColor=white" />
+       <img src="https://img.shields.io/badge/MCSA-0078D6.svg?logo=microsoft&logoColor=white" />
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Operating Systems  
+<a href="https://github.com/yourprofile">
+<div align="center">  
+       <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" />
+</div>
+</a>
+</td></tr>
+</table>
+
+
+<h2>🚀 Tech Stack</h2>
+<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="CCNA" src="https://img.shields.io/badge/CCNA-1BA0D7.svg?logo=cisco&logoColor=white"></a>
+<a href="#"><img alt="MCSA" src="https://img.shields.io/badge/MCSA-0078D6.svg?logo=microsoft&logoColor=white"></a>
+<a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=white"></a>
+<a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=podman&logoColor=white"></a>
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
+<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"></a>
+<a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white"></a>
+<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"></a>
+
+
+
 ## Github Stats:
 <p align="center">
     <a href="https://github.com/abdulrahman-elgohary">
