@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Abdulrahman+Elsherif" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmanelgohary/)
+[![Mail](https://img.shields.io/badge/Gmail-abdulrahmanelgohary101@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:business.antler474@passinbox.com?subject=Hey!)
+
+<br>
 <!--
 **abdulrahman-elgohary/abdulrahman-elgohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
