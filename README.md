@@ -18,20 +18,24 @@
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="30%">
 
-### Containerization & Orchestration  
+### Containers & Orchestration  
 <a href="https://github.com/yourprofile">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=podman,docker,kubernetes,openshift&perline=2" /> 
+       <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=3" /> 
+       <br>
+       <img src="https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo.png" alt="Podman" width="80" height="20"/>
+
 </div>
 </a>
 </td><td valign="top" width="25%">
 
-### Infrastructure as Code & GitOps  
+### Infrastructure as Code
 <a href="https://github.com/yourprofile">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=terraform,ansible&perline=2" /> 
+        <br>
        <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
 </div>
 </a>
@@ -45,7 +49,7 @@
 </a>
 </td><td valign="top" width="25%">
 
-### Programming & Scripting  
+### Programming                  
 <a href="https://github.com/yourprofile">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=python,bash&perline=2" /> 
@@ -55,18 +59,20 @@
 
 <tr><td valign="top" width="25%">
 
-### Virtualization & Cloud  
+  ### Virtualization & Cloud  
 <a href="https://github.com/yourprofile">
 <div align="center">  
-       <img src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=white" />
+       <img src="https://skillicons.dev/icons?i=aws&perline=1" /> 
+       <br>
+       <img src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=black" />
 </div>
 </a>
 </td><td valign="top" width="25%">
 
-### Networking & Certifications  
+### Networking & Version Control
 <a href="https://github.com/yourprofile">
 <div align="center">  
-       <img src="https://img.shields.io/badge/CCNA-1BA0D7.svg?logo=cisco&logoColor=white" />
+       <img src="https://skillicons.dev/icons?i=git&perline=1" /> 
        <img src="https://img.shields.io/badge/MCSA-0078D6.svg?logo=microsoft&logoColor=white" />
 </div>
 </a>
@@ -75,7 +81,8 @@
 ### Operating Systems  
 <a href="https://github.com/yourprofile">
 <div align="center">  
-       <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" />
+     <img src="https://skillicons.dev/icons?i=linux&perline=1" /> 
+     <img src="https://skillicons.dev/icons?i=redhat&perline=1" /> 
 </div>
 </a>
 </td></tr>
@@ -136,6 +143,7 @@
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 #
+
 <!--
 **abdulrahman-elgohary/abdulrahman-elgohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -150,3 +158,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
