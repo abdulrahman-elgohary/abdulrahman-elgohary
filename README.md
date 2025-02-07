@@ -23,7 +23,7 @@
 ### Containerization & Orchestration  
 <a href="https://github.com/yourprofile">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=docker,podman,kubernetes,openshift&perline=2" /> 
+       <img src="https://skillicons.dev/icons?i=podman,docker,kubernetes,openshift&perline=2" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
