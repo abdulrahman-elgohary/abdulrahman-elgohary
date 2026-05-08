@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&duration=1500&pause=250&multiline=true&width=750&height=140&lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Enginner;(CK{A,S},3xRedHat,2xAWS,2xAzure)+Certified" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&duration=1500&pause=550&multiline=true&width=750&height=140&lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Enginner;(CK{A,S},3xRedHat,2xAWS,2xAzure)+Certified" alt="Title GitHub Readme" />
   </a>
 </h1>
 
