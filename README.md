@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=30&amp;duration=1300&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=950&amp;height=260&amp;lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Engineer;CNCF+Kubestronaut;3x+Red+Hat+%7C+2x+AWS+%7C+2x+Azure+%7C+1x+Nutanix+Certified"
+      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=30&amp;duration=1300&amp;pause=400&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=950&amp;height=260&amp;lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Engineer;CNCF+Kubestronaut;3x+Red+Hat+%7C+2x+AWS+%7C+2x+Azure+%7C+1x+Nutanix+Certified"
       alt="Animated introduction for Abdulrahman Elsherif"
     />
   </a>
