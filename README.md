@@ -67,7 +67,7 @@
 <div align="center">
   <a href="https://aws.amazon.com/">
     <img
-      src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
+      src="https://skillicons.dev/icons?i=aws&amp;theme=light"
       width="55"
       height="55"
       alt="AWS"
@@ -78,7 +78,7 @@
 
   <a href="https://azure.microsoft.com/">
     <img
-      src="https://cdn.simpleicons.org/microsoftazure/0078D4"
+      src="https://skillicons.dev/icons?i=azure&amp;theme=light"
       width="55"
       height="55"
       alt="Microsoft Azure"
