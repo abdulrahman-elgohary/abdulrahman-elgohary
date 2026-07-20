@@ -67,26 +67,43 @@
 <div align="center">
   <a href="https://aws.amazon.com/">
     <img
-      src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+      src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
+      width="55"
+      height="55"
       alt="AWS"
     />
   </a>
 
-  <br>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://azure.microsoft.com/">
     <img
-      src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
+      src="https://cdn.simpleicons.org/microsoftazure/0078D4"
+      width="55"
+      height="55"
       alt="Microsoft Azure"
     />
   </a>
 
-  <br>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.vmware.com/">
     <img
-      src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"
+      src="https://cdn.simpleicons.org/vmware/607078"
+      width="55"
+      height="55"
       alt="VMware"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.nutanix.com/">
+    <img
+      src="https://cdn.simpleicons.org/nutanix/024DA1"
+      width="55"
+      height="55"
+      alt="Nutanix"
     />
   </a>
 </div>
