@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=30&amp;duration=1300&amp;pause=400&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=950&amp;height=260&amp;lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Engineer;CNCF+Kubestronaut;3x+Red+Hat+%7C+2x+AWS+%7C+2x+Azure+Certified"
+      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=30&amp;duration=1300&amp;pause=400&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=950&amp;height=260&amp;lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Engineer;CNCF+Kubestronaut;3x+Red+Hat+%7C+2x+AWS+%7C+2x+Azure+%7C+1x+Nutanix+Certified"
       alt="Animated introduction for Abdulrahman Elsherif"
     />
   </a>
@@ -62,15 +62,34 @@
 
 <tr><td valign="top" width="25%">
 
-  ### Virtualization & Cloud  
-<a href="https://github.com/yourprofile">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=aws&perline=1" /> 
-       <br>
-       <img src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=black" />
+### Virtualization & Cloud
+
+<div align="center">
+  <a href="https://aws.amazon.com/">
+    <img
+      src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+      alt="AWS"
+    />
+  </a>
+
+  <br>
+
+  <a href="https://azure.microsoft.com/">
+    <img
+      src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
+      alt="Microsoft Azure"
+    />
+  </a>
+
+  <br>
+
+  <a href="https://www.vmware.com/">
+    <img
+      src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"
+      alt="VMware"
+    />
+  </a>
 </div>
-</a>
-</td><td valign="top" width="25%">
 
 ### Networking & Version Control
 <a href="https://github.com/yourprofile">
