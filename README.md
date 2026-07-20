@@ -1,8 +1,11 @@
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&duration=1500&pause=550&multiline=true&width=750&height=140&lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Enginner;CNCF+Kubestronaut,3xRedHat,2xAWS,2xAzure)+Certified" alt="Title GitHub Readme" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=1800&pause=900&center=true&vCenter=true&width=850&height=70&lines=%24+whoami;Abdulrahman+Elsherif;DevOps+Engineer;CNCF+Kubestronaut+%7C+3x+Red+Hat+%7C+2x+AWS+%7C+2x+Azure+Certified"
+      alt="Animated introduction: Abdulrahman Elsherif, DevOps Engineer"
+    />
   </a>
-</h1>
+</div>
 
 ## Connect with me:
 <div align="center">
